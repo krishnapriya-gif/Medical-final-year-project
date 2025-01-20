@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">@color/sky_blue</color>
+
+    <color name="background_Tint">@color/red</color>
+    <color name="bt_text_color">#FFFFFF</color>
+    <color name="text_color">#E0E0E0</color>
+
+    <color name="textview_background_color">#1E1E1E</color>
+    <color name="textview_text_color">#FFB400</color>
+
+    <color name="light_cream">#F7E9D7</color>
+    <color name="soft_mint">#00BFA6</color>
+    <color name="pale_peach">#FF6D6D</color>
+    <color name="light_lavender">#9C92AC</color>
+    <color name="red">#E91E63</color>
+    <color name="sky_blue">#4A90E2</color>
+
+    <!-- Primary Colors -->
+    <color name="calm_blue">#1E88E5</color>
+    <color name="soft_green">#43A047</color>
+
+    <!-- Secondary Colors -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#424242</color>
+    <color name="accent_orange">#FB8C00</color>
+
+    <!-- Text Colors -->
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="link_text">#1E88E5</color>
+
+    <!-- Background Colors -->
+    <color name="background_main">#FFFFFF</color>
+    <color name="background_secondary">#F5F5F5</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#1E88E5</color>
+    <color name="button_secondary">#43A047</color>
+    <color name="button_disabled">#B0BEC5</color>
+
+    <!-- Input Fields -->
+    <color name="input_border">#BDBDBD</color>
+    <color name="input_focused_border">#1E88E5</color>
+    <color name="input_placeholder">#9E9E9E</color>
+</resources>

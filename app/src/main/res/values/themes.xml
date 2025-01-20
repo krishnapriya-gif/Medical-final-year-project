@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PharmaCare" parent="Theme.Material3.DayNight.NoActionBar">
+         Customize your light theme here.
+         <item name="colorPrimary">@color/button_primary</item>
+    </style>
+
+    <style name="Theme.PharmaCare" parent="Base.Theme.PharmaCare" />
+</resources>
